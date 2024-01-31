@@ -13,14 +13,10 @@ Projet Groupie est une application Fyne qui permet aux utilisateurs de parcourir
 Assurez-vous d'avoir Go installé sur votre machine. Pour exécuter l'application, suivez ces étapes :
 
 1. Clonez le dépôt :
-   \`\`\`bash
    git clone https://github.com/AIRF0X788/Groupie-Tracker
-   \`\`\`
 
 2. Exécutez l'application :
-   \`\`\`bash
    go run main.go
-   \`\`\`
 
 ## Dépendances externes
 - Fyne : Une bibliothèque d'interface utilisateur en Go pour la création d'applications de bureau.
